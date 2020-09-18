@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a web application!
 - 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I enjoy food and traveling
-- 🥅 2020 Goals: Earn AWS Certified Solutions Architect | Learn GoLang
+- 🥅 2020 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
 
 
 ### Connect with me:
@@ -48,7 +48,7 @@ Coming soon...
 
 ---
 
-
+<!-- THEME COLOR REF LINK - https://github.com/atomb0mb/github-readme-stats-1/blob/master/themes/README.md>
 <details>
   <summary>:zap: Github Stats</summary>
 
