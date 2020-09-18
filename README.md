@@ -1,4 +1,4 @@
-### Hi there, I'm Chee - aka [cwng][website] 👋
+### Hi there, I'm Chee 👋
 
 [![Website](https://img.shields.io/badge/cwng.us-website-brightgreen?style=flat-square)](https://cwng.us)
 
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="cwng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="cwng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
