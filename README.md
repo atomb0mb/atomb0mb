@@ -48,7 +48,7 @@ Coming soon...
 
 ---
 
-<!-- THEME COLOR REF LINK - https://github.com/atomb0mb/github-readme-stats-1/blob/master/themes/README.md>
+
 <details>
   <summary>:zap: Github Stats</summary>
 
