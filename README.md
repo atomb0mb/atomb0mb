@@ -1,6 +1,6 @@
-### Hi there, I'm Chee 👋
+### Hi there, I'm Chee AKA cwng [about me][website]👋
 
-[![Website](https://img.shields.io/badge/cwng.us-website-brightgreen?style=flat-square)](https://cwng.us)
+[![Website](https://img.shields.io/badge/cwng.us-portfolio-brightgreen?style=flat-square)](https://cwng.us)
 
 
 ## I'm a CS student and freelance developer!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="cwng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="cwng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -48,7 +48,7 @@ Coming soon...
 
 ---
 
-
+<!-- check theme color for ref https://github.com/atomb0mb/github-readme-stats-1/tree/master/themes -->
 <details>
   <summary>:zap: Github Stats</summary>
 
@@ -56,5 +56,5 @@ Coming soon...
 
 </details>
 
-[website]: https://cwng.us
+[website]: https://cwng.webflow.io/
 [linkedin]: https://linkedin.com/in/cwng-7135
