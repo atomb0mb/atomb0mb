@@ -51,8 +51,8 @@ Coming soon...
 
 <details>
   <summary>:zap: Github Stats</summary>
-  
- <img align="left" alt="atomb0mb's Github Stats" src="https://github-readme-stats-1.atomb0mb.vercel.app/api?username=atomb0mb&&count_private=true&show_icons=true&theme=radical" />
+
+ <img align="left" alt="atomb0mb's Github Stats" src="https://github-readme-stats-1.atomb0mb.vercel.app/api?username=atomb0mb&&count_private=true&show_icons=true&theme=tokyonight" />
 
 </details>
 
