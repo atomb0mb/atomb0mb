@@ -1,4 +1,4 @@
-### Hi there, I'm Chee AKA cwng [about me][website]👋
+### Hi there, I'm Chee AKA cwng. More about [me][website]👋
 
 [![Website](https://img.shields.io/badge/cwng.us-portfolio-brightgreen?style=flat-square)](https://cwng.us)
 
@@ -56,5 +56,5 @@ Coming soon...
 
 </details>
 
-[website]: https://cwng.webflow.io/
+[website]: https://cwng.webflow.io/about
 [linkedin]: https://linkedin.com/in/cwng-7135
