@@ -5,8 +5,8 @@
 
 ## I'm a CS student and freelance developer!
 
-- 🔭 I’m currently working on a web application!
-- 🌱 I’m currently learning everything 
+- 🔭 I’m currently working on a web application
+- 🌱 I’m currently preparing for HackDuke 2020 on december
 - ⚡ Fun fact: I enjoy food and traveling
 - 🥅 2020 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
 
