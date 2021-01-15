@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a web application
 - 🌱 I’m currently looking for job oppourtunity
 - ⚡ Fun fact: I enjoy food and traveling
-- 🥅 2020 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
+- 🥅 2021 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
 
 
 ### Connect with me:
