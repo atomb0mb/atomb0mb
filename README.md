@@ -1,14 +1,14 @@
-### Hi there, I'm Chee AKA cwng. More about [me][website]👋
+### Hello. More about [me][website]👋
 
 [![Website](https://img.shields.io/badge/cwng.us-portfolio-brightgreen?style=flat-square)](https://cwng.us)
 
 
-## I'm a CS student and freelance developer!
+## Computer Science Undergraduate and freelancer!
 
-- 🔭 I’m currently working on a web application
-- 🌱 I’m currently looking for job oppourtunity
+- 🔭 I’m interested in web and cloud technology and software engineering
+- 🌱 I’m currently looking for tech job oppourtunity
 - ⚡ Fun fact: I enjoy food and traveling
-- 🥅 2021 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
+- 🥅 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
 
 
 ### Connect with me:
