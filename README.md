@@ -6,9 +6,9 @@
 ## Computer Science Undergraduate and freelancer!
 
 - 🔭 I’m interested in web and cloud technology and software engineering
-- 🌱 I’m currently looking for tech job oppourtunity
+- 🌱 Completed
 - ⚡ Fun fact: I enjoy food and traveling
-- 🥅 Goals: Earn AWS Certified Solutions Architect | Explore GoLang, Svelte, Vue
+- 🥅 Goals: Earn AWS Certified Solutions Architect/ Azure Certified | Explore GoLang, Svelte, Vue
 
 
 ### Connect with me:
