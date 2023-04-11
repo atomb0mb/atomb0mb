@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/badge/cwng.us-portfolio-brightgreen?style=flat-square)](https://cwng.us)
 
 
-## Computer Science Undergraduate and freelancer!
+## Computer Science
 
-- 🔭 I’m interested in web and cloud technology and software engineering
+- 🔭 I’m interested in making an impact to the business & society with my cs knowledge.
 - 🌱 Completed
-- ⚡ Fun fact: I enjoy food and traveling
-- 🥅 Goals: Earn AWS Certified Solutions Architect/ Azure Certified | Explore GoLang, Svelte, Vue
+- ⚡ Fun fact: I play card and baord games. I enjoy biking, hiking and traveling!
+- 🥅 Goals: Azure Certified | Explore GoLang, Svelte, Vue
 
 
 ### Connect with me:
@@ -53,8 +53,3 @@ Coming soon...
   <summary>:zap: Github Stats</summary>
 
  <img align="left" alt="atomb0mb's Github Stats" src="https://github-readme-stats-1.atomb0mb.vercel.app/api?username=atomb0mb&&count_private=true&show_icons=true&theme=tokyonight" />
-
-</details>
-
-[website]: https://cwng.webflow.io/about
-[linkedin]: https://linkedin.com/in/cwng-7135
