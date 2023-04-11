@@ -11,10 +11,6 @@
 - 🥅 Goals: Azure Certified | Explore GoLang, Svelte, Vue
 
 
-### Connect with me:
-
-[<img align="left" alt="cwng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -37,13 +33,6 @@
 
 <br />
 <br />
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-Coming soon...
-<!-- BLOG-POST-LIST:END -->
 
 
 ---
