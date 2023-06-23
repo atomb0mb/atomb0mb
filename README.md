@@ -1,15 +1,10 @@
-### Hello. More about [me][website]👋
+### Hello.
 
-[![Website](https://img.shields.io/badge/cwng.us-portfolio-brightgreen?style=flat-square)](https://cwng.us)
+## Little about me
 
-
-## Computer Science
-
-- 🔭 I’m interested in making an impact to the business & society with my cs knowledge.
-- 🌱 Completed
-- ⚡ Fun fact: I play card and baord games. I enjoy biking, hiking and traveling!
-- 🥅 Goals: Azure Certified | Explore GoLang, Svelte, Vue
-
+- 🌱 Role: I am a full stack developer
+- ⚡ Fun: I play card and board games. I enjoy biking, hiking, and traveling!
+- 🥅 Goals: Expand domain knowledge of CS & AGILE | Find a place I belong!
 
 <br />
 
