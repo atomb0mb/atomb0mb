@@ -2,9 +2,9 @@
 
 ## Little about me
 
-- 🌱 Role: I am a software developer
-- ⚡ Fun: I play card and board games. I enjoy biking, hiking, and traveling!
-- 🥅 Goals: Expand domain knowledge of AGILE & DevOps | Find a place I belong!
+- 🌱 Role: I am a software developer with a passion for crafting innovative solutions.
+- ⚡ Fun: Traveling is my escape, fueling my creativity and broadening my horizons!
+- 🥅 Goals: Find a place I belong!
 
 <br />
 
